@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-**Computer Science Undergraduate** passionate about **distributed systems**, **low-level programming**, and **open-source innovation**. Currently exploring **RISC-V** and high-performance backend architectures.
+**Computer Science Undergraduate** passionate about **distributed systems**, **low-level programming**, **RISC-V**, and building high-performance backend solutions.
 
 ---
 
@@ -30,19 +30,15 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
 
 #### **Backend & Frameworks**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black)
 
 #### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
 
@@ -51,18 +47,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 
-#### **Machine Learning & Data**
+#### **Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
-#### **Tools & Version Control**
+#### **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
 </div>
@@ -71,7 +62,10 @@
 
 ### 📊 Contribution Graph
 
-![GitHub Contribution Snake](https://github.com/sRiSh-JaNa-tech/sRiSh-JaNa-tech/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Activity](https://github-readme-stats.shion.dev/api?username=sRiSh-JaNa-tech&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+<!-- Snake Graph (Uncomment after setting up the workflow) -->
+<!-- ![GitHub Contribution Snake](https://github.com/sRiSh-JaNa-tech/sRiSh-JaNa-tech/blob/output/github-contribution-grid-snake.svg) -->
 
 ---
 
@@ -79,7 +73,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=sRiSh-JaNa-tech&theme=tokyonight&hide_border=true&include_all_commits=true)
 ![](https://streak-stats.demolab.com/?user=sRiSh-JaNa-tech&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sRiSh-JaNa-tech&theme=tokyonight&hide_border=true&layout=compact)
 
@@ -87,11 +80,19 @@
 
 ### 🏅 LeetCode
 
-[![LeetCode](https://leetcard.johng.cn/?username=S-34&theme=dark)](https://leetcode.com/u/S-34/)
+**250+ Problems Solved**
+
+[![LeetCode Card](https://leetcard.johng.cn/?username=S-34&theme=dark&font=IBM%20Plex%20Mono)](https://leetcode.com/u/S-34/)
 
 ---
 
-### 📫 Connect with Me
+### 🏆 Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sRiSh-JaNa-tech&theme=tokyonight&column=4&margin-w=15&no-bg=true)
+
+---
+
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srish-jana-aab005337)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishjana@gmail.com)
