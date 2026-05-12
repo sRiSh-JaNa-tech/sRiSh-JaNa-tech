@@ -78,14 +78,6 @@
 
 </div>
 
-### 🏅 LeetCode
-
-**250+ Problems Solved**
-
-[![LeetCode Card](https://leetcard.johng.cn/?username=S-34&theme=dark&font=IBM%20Plex%20Mono)](https://leetcode.com/u/S-34/)
-
----
-
 ### 🏆 Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sRiSh-JaNa-tech&theme=tokyonight&column=4&margin-w=15&no-bg=true)
