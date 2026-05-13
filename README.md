@@ -1,30 +1,30 @@
 <div align="center">
 
-# Hi there! 👋 I'm **Srish Jana**
+# SRISH JANA
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Crafting+AI+%26+ML+Solutions;Engineering+Real-Time+Applications;Architecting+Edge-First+Designs)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Crafting+AI+%26+ML+Solutions;Engineering+Real-Time+Applications;Architecting+Edge-First+Designs)
 
 <br/>
 
-**Computer Science Undergraduate | Backend & AI/ML Developer | Competitive Programmer**
+*Computer Science Undergraduate | Backend & AI/ML Developer | Competitive Programmer*
 
 </div>
 
 ---
 
-### 🚀 About Me
+### ABOUT ME
 
-I am a Computer Science Engineering student specializing in AI & ML, passionate about building high-performance backend infrastructure and intelligent systems. I focus on edge-first architecture, low-latency design, and orchestrating Large Language Models to solve real-world problems. 
+> I am a Computer Science Engineering student specializing in **AI & ML**, passionate about building high-performance backend infrastructure and intelligent systems. My focus lies in edge-first architecture, low-latency design, and orchestrating Large Language Models to solve real-world problems.
 
-*   🎓 Pursuing my B.Tech in CSE (AI & ML), graduating in Jan 2028.
-*   ☁️ **Certified:** AWS Certified Cloud Practitioner & AWS Machine Learning Foundations.
-*   💻 Active competitive programmer, frequently tackling complex algorithmic challenges in C++.
-*   🌱 Currently exploring: Advanced RAG pipelines, Agentic AI (LangGraph), and distributed execution environments.
-*   📫 Seeking: Backend or AI/ML-focused roles to build scalable, reliable systems.
+*   **Education:** Pursuing my B.Tech in CSE (AI & ML), graduating in Jan 2028.
+*   **Certifications:** AWS Certified Cloud Practitioner & AWS Machine Learning Foundations.
+*   **Competitive Programming:** Active competitor, frequently tackling complex algorithmic challenges in C++.
+*   **Current Explorations:** Advanced RAG pipelines, Agentic AI (LangGraph), and distributed execution environments.
+*   **Objective:** Seeking Backend or AI/ML-focused roles to build scalable, reliable systems.
 
 ---
 
-### 🛠️ Tech Stack
+### TECH STACK
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I am a Computer Science Engineering student specializing in AI & ML, passionate 
 
 ---
 
-### 💻 Highlighted Projects
+### HIGHLIGHTED PROJECTS
 
 *   **FileDrop:** A real-time P2P file transfer system utilizing WebRTC and Node.js, complete with published Chrome and VS Code extensions.
 *   **ComputeFabric:** A distributed notebook execution system that enables code cells to run across multiple machines using Node.js and FastAPI.
@@ -68,15 +68,17 @@ I am a Computer Science Engineering student specializing in AI & ML, passionate 
 
 ---
 
-### 📊 GitHub Analytics & Dynamic Graphs
+### GITHUB ANALYTICS & DYNAMIC GRAPHS
 
 <div align="center">
 
 <!-- Dynamic Activity Graph -->
 [![Srish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sRiSh-JaNa-tech&theme=tokyonight&hide_border=true&area=true)](https://github.com/sRiSh-JaNa-tech)
 
+<br/>
 
-# 📊 GitHub Stats:
+**GITHUB STATS:**
+
 ![](https://github-readme-stats.shion.dev/api?username=sRiSh-JaNa-tech&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sRiSh-JaNa-tech&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sRiSh-JaNa-tech&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -87,7 +89,9 @@ I am a Computer Science Engineering student specializing in AI & ML, passionate 
 
 </div>
 
-### 📫 Connect With Me
+---
+
+### CONNECT WITH ME
 
 <div align="center">
 
