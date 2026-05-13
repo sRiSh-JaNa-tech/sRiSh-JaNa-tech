@@ -75,19 +75,11 @@ I am a Computer Science Engineering student specializing in AI & ML, passionate 
 <!-- Dynamic Activity Graph -->
 [![Srish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sRiSh-JaNa-tech&theme=tokyonight&hide_border=true&area=true)](https://github.com/sRiSh-JaNa-tech)
 
-<br/>
 
-<!-- Contribution Snake (Requires GitHub Action setup in your repo to run automatically) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sRiSh-JaNa-tech/sRiSh-JaNa-tech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sRiSh-JaNa-tech/sRiSh-JaNa-tech/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sRiSh-JaNa-tech/sRiSh-JaNa-tech/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api?username=sRiSh-JaNa-tech&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sRiSh-JaNa-tech&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sRiSh-JaNa-tech&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sRiSh-JaNa-tech&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sRiSh-JaNa-tech&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 
