@@ -17,7 +17,7 @@
 > I am a Computer Science Engineering student specializing in **AI & ML**, passionate about building high-performance backend infrastructure and intelligent systems. My focus lies in edge-first architecture, low-latency design, and orchestrating Large Language Models to solve real-world problems.
 
 *   **Education:** Pursuing my B.Tech in CSE (AI & ML), graduating in Jan 2028.
-*   **Certifications:** AWS Certified Cloud Practitioner & AWS Machine Learning Foundations.
+*   **Certifications:** AWS Certified Cloud Practitioner, AWS Certified Solutions Architect & AWS Machine Learning Foundations.
 *   **Competitive Programming:** Active competitor, frequently tackling complex algorithmic challenges in C++.
 *   **Current Explorations:** Advanced RAG pipelines, Agentic AI (LangGraph), and distributed execution environments.
 *   **Objective:** Seeking Backend or AI/ML-focused roles to build scalable, reliable systems.
