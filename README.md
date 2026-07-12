@@ -63,7 +63,7 @@
 
 *   **FileDrop:** A real-time P2P file transfer system utilizing WebRTC and Node.js, complete with published Chrome and VS Code extensions.
 *   **ComputeFabric:** A distributed notebook execution system that enables code cells to run across multiple machines using Node.js and FastAPI.
-*   **Kishan Co-Pilot:** An AI-powered agricultural assistant utilizing LangGraph for stateful reasoning and geospatial weather forecasting.
+*   **BitDB: ** A high-performance embedded key-value database built in C++, featuring custom storage structures, efficient indexing, and optimized disk-based data retrieval.
 *   **FileWiz:** A comprehensive file management and processing platform leveraging Node.js, MongoDB, and Python integration.
 
 ---
